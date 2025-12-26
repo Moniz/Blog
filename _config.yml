@@ -1,3 +1,6 @@
+domain: anthonymoniz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://anthonymoniz.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+
 collections:
     #the name of a collection. Maps to a folder _authors
     authors:
