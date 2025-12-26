@@ -7,6 +7,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.4"
 
 gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-admin', group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"

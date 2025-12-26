@@ -1,3 +1,4 @@
+
 collections:
     #the name of a collection. Maps to a folder _authors
     authors:
@@ -23,3 +24,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-admin
